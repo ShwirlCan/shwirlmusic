@@ -1,0 +1,27 @@
+[412.086486816] 2017-12-02 18:25:10,478 - INFO - launcher: Starting sanity checks
+[416.087865829] 2017-12-02 18:25:10,482 - INFO - launcher: Checking for python 3.5+
+[416.087865829] 2017-12-02 18:25:10,482 - INFO - launcher: Checking console encoding
+[416.087865829] 2017-12-02 18:25:10,482 - INFO - launcher: Setting console encoding to UTF-8
+[416.087865829] 2017-12-02 18:25:10,482 - INFO - launcher: Ensuring we're in the right folder
+[416.087865829] 2017-12-02 18:25:10,482 - INFO - launcher: Adding local bins/ folder to path
+[444.144725800] 2017-12-02 18:25:10,511 - INFO - launcher: Checks passed.
+[444.144725800] 2017-12-02 18:25:10,511 - INFO - launcher: Moving old musicbot log
+
+######################### PRE-RUN SANITY CHECKS PASSED #########################
+
+[5.3526794910430908] 2017-12-02 18:25:15,419 - DEBUG - musicbot.bot | In bot.py::MainThread(2992), line 203 in _setup_logging: Set logging level to INFO
+[5.3526794910430908] 2017-12-02 18:25:15,419 - WARNING - musicbot.bot | In bot.py::MainThread(2992), line 73 in __init__: Autoplaylist is empty, disabling.
+[5.352679491] launcher-INFO: Connecting
+[6.405005932] launcher-INFO: 
+An error has occured:
+  Problem:
+    Bot cannot login, bad credentials.
+
+  Solution:
+    Fix your Token in the options file.  Remember that each field should be on
+    their own line.
+
+
+[6.405005932] launcher-INFO: All done.
+[1.2560970783233643] 2017-12-02 18:26:11,935 - DEBUG - musicbot.bot | In bot.py::MainThread(2204), line 203 in _setup_logging: Set logging level to INFO
+[1.2560970783233643] 2017-12-02 18:26:11,935 - WARNING - musicbot.bot | In bot.py::MainThread(2204), line 73 in __init__: Autoplaylist is empty, disabling.

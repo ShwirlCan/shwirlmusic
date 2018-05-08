@@ -1,0 +1,77 @@
+[34.006834030] 2017-12-01 23:32:05,208 - INFO - launcher: Starting sanity checks
+[34.006834030] 2017-12-01 23:32:05,208 - INFO - launcher: Checking for python 3.5+
+[35.007715225] 2017-12-01 23:32:05,209 - INFO - launcher: Checking console encoding
+[35.007715225] 2017-12-01 23:32:05,209 - INFO - launcher: Setting console encoding to UTF-8
+[35.007715225] 2017-12-01 23:32:05,209 - INFO - launcher: Ensuring we're in the right folder
+[36.008834839] 2017-12-01 23:32:05,210 - INFO - launcher: Adding local bins/ folder to path
+[37.009716034] 2017-12-01 23:32:05,211 - INFO - launcher: Checks passed.
+[38.026332855] 2017-12-01 23:32:05,212 - INFO - launcher: Moving old musicbot log
+
+######################### PRE-RUN SANITY CHECKS PASSED #########################
+
+[1.3079111576080322] 2017-12-01 23:32:06,482 - DEBUG - musicbot.bot | In bot.py::MainThread(7024), line 203 in _setup_logging: Set logging level to INFO
+[1.3079111576080322] 2017-12-01 23:32:06,482 - WARNING - musicbot.bot | In bot.py::MainThread(7024), line 73 in __init__: Autoplaylist is empty, disabling.
+[1.309912682] launcher-INFO: Connecting
+[5.6694533824920654] 2017-12-01 23:32:10,843 - DEBUG - musicbot.bot | In bot.py::MainThread(7024), line 993 in on_ready: Connection established, ready to go.
+[5.6694533824920654] 2017-12-01 23:32:10,843 - DEBUG - musicbot.bot | In bot.py::MainThread(7024), line 314 in _cache_app_info: Caching app info
+[6.1975317001342773] 2017-12-01 23:32:11,371 - DEBUG - musicbot.bot | In bot.py::MainThread(7024), line 810 in _scheck_ensure_env: Ensuring data folders exist
+[6.2005314826965332] 2017-12-01 23:32:11,374 - DEBUG - musicbot.bot | In bot.py::MainThread(7024), line 826 in _scheck_server_permissions: Checking server permissions
+[6.2005314826965332] 2017-12-01 23:32:11,374 - DEBUG - musicbot.bot | In bot.py::MainThread(7024), line 830 in _scheck_autoplaylist: Auditing autoplaylist
+[6.2015318870544434] 2017-12-01 23:32:11,375 - DEBUG - musicbot.bot | In bot.py::MainThread(7024), line 834 in _scheck_configs: Validating config
+[6.2015318870544434] 2017-12-01 23:32:11,375 - DEBUG - musicbot.config | In config.py::MainThread(7024), line 175 in async_validate: Validating options...
+[6.2015318870544434] 2017-12-01 23:32:11,375 - DEBUG - musicbot.bot | In bot.py::MainThread(7024), line 837 in _scheck_configs: Validating permissions config
+[6.2015318870544434] 2017-12-01 23:32:11,375 - DEBUG - musicbot.permissions | In permissions.py::MainThread(7024), line 59 in async_validate: Validating permissions...
+[6.2025325298309326] 2017-12-01 23:32:11,376 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1004 in on_ready: Connected!  Musicbot v1.9.6
+
+[6.2025325298309326] 2017-12-01 23:32:11,376 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1014 in on_ready: Bot:   381111258172227585/Ami#6258 [BOT]
+[6.2035329341888428] 2017-12-01 23:32:11,377 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1022 in on_ready: Owner: 300944772971888640/Liam#1074
+
+[6.2045333385467529] 2017-12-01 23:32:11,378 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1025 in on_ready: Server List:
+[6.2045333385467529] 2017-12-01 23:32:11,378 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1026 in <listcomp>:  - Sacred Champions
+[6.2045333385467529] 2017-12-01 23:32:11,378 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1026 in <listcomp>:  - The Plums(Test)(Closed)
+[6.2055342197418213] 2017-12-01 23:32:11,379 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1026 in <listcomp>:  - ☆Oh Me Ged☆
+[6.2065353393554688] 2017-12-01 23:32:11,380 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1026 in <listcomp>:  - 🐉DragonK1NGDOM™🐉
+[6.2065353393554688] 2017-12-01 23:32:11,380 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1026 in <listcomp>:  - Bot Club
+[6.2075362205505371] 2017-12-01 23:32:11,381 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1026 in <listcomp>:  - Vampire's Lounge
+[6.2085366249084473] 2017-12-01 23:32:11,382 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1026 in <listcomp>:  - Crunchy's Lounge
+[6.2085366249084473] 2017-12-01 23:32:11,382 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1026 in <listcomp>:  - Galactic Inc²
+[6.2095386981964111] 2017-12-01 23:32:11,383 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1026 in <listcomp>:  - Meika's Wonderland
+[6.2105374336242676] 2017-12-01 23:32:11,384 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1026 in <listcomp>:  - Motion
+[6.2115395069122314] 2017-12-01 23:32:11,385 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1070 in on_ready: Not bound to any text channels
+[6.2125384807586670] 2017-12-01 23:32:11,386 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1096 in on_ready: Not autojoining any voice channels
+[6.2135393619537354] 2017-12-01 23:32:11,387 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1100 in on_ready: Options:
+[6.2135393619537354] 2017-12-01 23:32:11,387 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1102 in on_ready:   Command prefix: !
+[6.2145569324493408] 2017-12-01 23:32:11,388 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1103 in on_ready:   Default volume: 25%
+[6.2155456542968750] 2017-12-01 23:32:11,389 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1105 in on_ready:   Skip threshold: 4 votes or 50%
+[6.2155456542968750] 2017-12-01 23:32:11,389 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1106 in on_ready:   Now Playing @mentions: Enabled
+[6.2165422439575195] 2017-12-01 23:32:11,390 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1107 in on_ready:   Auto-Summon: Disabled
+[6.2175426483154297] 2017-12-01 23:32:11,391 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1108 in on_ready:   Auto-Playlist: Disabled
+[6.2185456752777100] 2017-12-01 23:32:11,392 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1109 in on_ready:   Auto-Pause: Enabled
+[6.2195456027984619] 2017-12-01 23:32:11,393 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1110 in on_ready:   Delete Messages: Disabled
+[6.2195456027984619] 2017-12-01 23:32:11,393 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1113 in on_ready:   Debug Mode: Disabled
+[6.2205615043640137] 2017-12-01 23:32:11,394 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1114 in on_ready:   Downloaded songs will be saved
+[11.6355543136596680] 2017-12-01 23:32:16,809 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(7024), line 2528 in on_voice_state_update: Voice state update for 326276964845355009/༺ ༻ Mohit ༺ ༻#5773 on 🐉DragonK1NGDOM™🐉/🍗PUB_G🍗 -> [UNMUTE]
+[13.7891964912414551] 2017-12-01 23:32:18,963 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(7024), line 2528 in on_voice_state_update: Voice state update for 300944772971888640/Liam#1074 on Motion/General -> [MOVE]
+[14.3391184806823730] 2017-12-01 23:32:19,513 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(7024), line 2528 in on_voice_state_update: Voice state update for 384093289764093952/vaibhav1506#8299 on 🐉DragonK1NGDOM™🐉/🍗PUB_G-DUO🍗 -> [MOVE]
+[16.2457258701324463] 2017-12-01 23:32:21,419 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(7024), line 2528 in on_voice_state_update: Voice state update for 384093289764093952/vaibhav1506#8299 on 🐉DragonK1NGDOM™🐉/🍗PUB_G-DUO🍗 -> [MUTE]
+[18.8344178199768066] 2017-12-01 23:32:24,008 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 2359 in on_message: 300944772971888640/Liam#1074: !summon
+[18.8354184627532959] 2017-12-01 23:32:24,009 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 1769 in cmd_summon: Joining Motion/General
+[18.8364393711090088] 2017-12-01 23:32:24,010 - DEBUG - musicbot.bot | In bot.py::MainThread(7024), line 427 in get_voice_client: Connection attempt 1 to General
+[18.8364393711090088] 2017-12-01 23:32:24,010 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(7024), line 366 in join_voice_channel: (join_voice_channel) creating futures
+[18.8374390602111816] 2017-12-01 23:32:24,011 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(7024), line 372 in join_voice_channel: (join_voice_channel) setting voice state
+[18.8374390602111816] 2017-12-01 23:32:24,011 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(7024), line 375 in join_voice_channel: (join_voice_channel) waiting for session id
+[19.4593262672424316] 2017-12-01 23:32:24,633 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(7024), line 2528 in on_voice_state_update: Voice state update for 381111258172227585/Ami#6258 on Motion/General -> [JOIN, CONNECT]
+[19.4593262672424316] 2017-12-01 23:32:24,633 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 2539 in on_voice_state_update: 381111258172227585/Ami#6258 has joined Motion/General
+[19.4603092670440674] 2017-12-01 23:32:24,634 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(7024), line 379 in join_voice_channel: (join_voice_channel) waiting for voice data
+[19.4623117446899414] 2017-12-01 23:32:24,636 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(7024), line 393 in join_voice_channel: (join_voice_channel) connecting...
+[22.3211359977722168] 2017-12-01 23:32:27,495 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(7024), line 405 in join_voice_channel: (join_voice_channel) connection successful
+[22.3211359977722168] 2017-12-01 23:32:27,495 - DEBUG - musicbot.bot | In bot.py::MainThread(7024), line 453 in get_voice_client: Connected in 3.5s
+[22.3211359977722168] 2017-12-01 23:32:27,495 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 454 in get_voice_client: Connected to Motion/General
+[22.3231394290924072] 2017-12-01 23:32:27,497 - VOICEDEBUG - musicbot.player | In player.py::MainThread(7024), line 311 in websocket_check: Starting websocket check loop for Motion
+[23.9745907783508301] 2017-12-01 23:32:29,148 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(7024), line 2528 in on_voice_state_update: Voice state update for 326276964845355009/༺ ༻ Mohit ༺ ༻#5773 on 🐉DragonK1NGDOM™🐉/🍗PUB_G🍗 -> [MUTE]
+[24.2586617469787598] 2017-12-01 23:32:29,432 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(7024), line 2528 in on_voice_state_update: Voice state update for 326276964845355009/༺ ༻ Mohit ༺ ༻#5773 on 🐉DragonK1NGDOM™🐉/🍗PUB_G🍗 -> [UNMUTE]
+[29.6674399375915527] 2017-12-01 23:32:34,841 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(7024), line 2528 in on_voice_state_update: Voice state update for 326276964845355009/༺ ༻ Mohit ༺ ༻#5773 on 🐉DragonK1NGDOM™🐉/🍗PUB_G🍗 -> [MUTE]
+[29.9008052349090576] 2017-12-01 23:32:35,074 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(7024), line 2528 in on_voice_state_update: Voice state update for 326276964845355009/༺ ༻ Mohit ༺ ༻#5773 on 🐉DragonK1NGDOM™🐉/🍗PUB_G🍗 -> [UNMUTE]
+[33.2270717620849609] 2017-12-01 23:32:38,401 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(7024), line 2528 in on_voice_state_update: Voice state update for 300944772971888640/Liam#1074 on Motion/General -> [LEAVE, DISCONNECT]
+[33.2270717620849609] 2017-12-01 23:32:38,401 - INFO - musicbot.bot | In bot.py::MainThread(7024), line 2539 in on_voice_state_update: 300944772971888640/Liam#1074 has left Motion/General
+[36.0881924629211426] 2017-12-01 23:32:41,262 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(7024), line 2528 in on_voice_state_update: Voice state update for 381111258172227585/Ami#6258 on Motion/General -> [DISCONNECT]
