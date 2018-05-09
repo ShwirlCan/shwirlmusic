@@ -7,8 +7,8 @@ A bot made to be only used by Shan and Swirl.
 
 
 
-Original Files from RhinoBot
-Only ones added are Promote and Repeat
+Original Files from RhinoBot.
+Edited by - AMI-Winter Rev
 
 
 
